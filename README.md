@@ -1,4 +1,4 @@
-## 🚀 Queries com JOIN FECTH para evitar degradação de performance: 
+## 🚀 Queries com JOIN FETCH para evitar degradação de performance: 
 Realizar consultas customizadas com mais eficiência usando JOIN FETCH na JPQL - Java Persistence Query Language, da JPA - Java Persistence API, para evitar degradação de performance em @ManyToMany, e também em @ManyToOne.
 
 ### 📋 Escola DevSuperior professor Nélio Alves.
